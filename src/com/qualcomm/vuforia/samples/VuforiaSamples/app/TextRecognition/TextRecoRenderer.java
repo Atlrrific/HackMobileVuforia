@@ -274,7 +274,7 @@ public class TextRecoRenderer implements GLSurfaceView.Renderer
 
                 if (wordU != null)
                 {
-                    // in portrait, the obb coordinate is based on
+                    // in portrait, te obb coordinate is based on
                     // a 0,0 position being in the upper right corner
                     // with :
                     // X growing from top to bottom and
